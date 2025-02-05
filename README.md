@@ -2,7 +2,7 @@
 I am a backend developer with expertise in C# and ASP.NET Core. I focus on creating scalable, efficient, and secure web applications and APIs, specializing in server-side logic, database management, and seamless front-end integration. My skillset includes designing clean architectures, implementing complex business logic, and optimizing performance and security for web-based solutions.
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherashev4@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cherashev4@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/tut_moe_ima)
 
 # 💻 Tech Stack:
